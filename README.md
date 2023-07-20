@@ -1,6 +1,6 @@
 # MacOS Security Resources
 
-
+**Summary**: A list of macOS security related resources. Not all resources are 100% security focused but they provide value in relationship to security principles by either explaining how macOS internals works or provide a way to check and verify settings.
 
 ## macOS Security Blogs:
 - [objective-see](https://objective-see.org/blog.html)
