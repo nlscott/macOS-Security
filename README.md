@@ -11,10 +11,12 @@
 - [The Electric Light Company](https://eclecticlight.co/)
 - [mac4n6](https://www.mac4n6.com/)
 - [Wojciech Reguła](https://wojciechregula.blog/post/)
+- [Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/)
 
 ---
 ## macOS Security Articles:
 
+- [Apple security releases](https://support.apple.com/en-us/HT201222)
 - [Mitre MacOS Matrix](https://attack.mitre.org/versions/v13/matrices/enterprise/macos/)
 - [Apple macOS CIS Benchmarks](https://www.cisecurity.org/benchmark/apple_os)
 - [Built-in macOS Security Tools](https://www.huntress.com/blog/built-in-macos-security-tools)
@@ -24,12 +26,11 @@
 - [Endpoint Security In a macOS World](https://www.huntress.com/blog/endpoint-security-in-a-macos-world)
 - [Apple Docs: Endpoint Security Framework](https://developer.apple.com/documentation/endpointsecurity)
 - [macOS Incident Response | Part 1: Collecting Device, File & System Data](https://www.sentinelone.com/labs/macos-incident-response-part-1-collecting-device-file-system-data/)
-- [macOS Incident Response | Part 2: User Data, Activity and Behavior](https://www.sentinelone.com/labs/macos-incident-response-part-2-user-data-activity-and-behavior/)
+- [macOS Incident Response | Part 2: User Data, Activity, and Behavior](https://www.sentinelone.com/labs/macos-incident-response-part-2-user-data-activity-and-behavior/)
 - [macOS Incident Response | Part 3: System Manipulation](https://www.sentinelone.com/labs/macos-incident-response-part-3-system-manipulation/)
 - [NIST SP 800-219 Automated Secure Configuration](https://csrc.nist.gov/publications/detail/sp/800-219/final)
 - [The Complete Guide to Understanding Apple Mac Security for Enterprise](https://www.sentinelone.com/blog/the-complete-guide-to-understanding-apple-mac-security-for-enterprise-read-the-free-ebook/)
-
-
+- [macOS vs Windows security: a detailed analysis](https://www.hexnode.com/blogs/macos-vs-windows-security-a-detailed-analysis/)
 
 
 ---
@@ -39,7 +40,7 @@
 - [The Mitten Mac Tools](https://themittenmac.com/tools/)
 - [The macOS Security Compliance Project](https://github.com/usnistgov/macos_security) 
 - [Red Canary Mac Monitor](https://redcanary.com/mac-threat-analysis-tool/)
-- [The Eletric Light Company Tools](https://eclecticlight.co/downloads/)
+- [The Electric Light Company Tools](https://eclecticlight.co/downloads/)
 - [Jamf Aftermath](https://github.com/jamf/aftermath)
 - [Suspicious Package](https://mothersruin.com/software/SuspiciousPackage/)
 - [Apparency](https://mothersruin.com/software/Apparency/)
@@ -82,4 +83,5 @@ Community:
 
 Podcast:
 
-- [Security Now](https://twit.tv/shows/security-now) (not a specific macos podcast but great for overall sercuity news and trends)
+- [Security Now](https://twit.tv/shows/security-now) (not a specific macOS podcast but great for overall security news and trends)
+
