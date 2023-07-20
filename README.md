@@ -47,12 +47,14 @@
 - [CrowdStrike: Automated Mac Forensic Triage Collector](https://github.com/CrowdStrike/automactc)
 - [Stronghold](https://github.com/alichtman/stronghold)
 - [LowProfile](https://github.com/ninxsoft/LowProfile)
+- [gnes](https://github.com/erikng/gnes)
 
 ---
 ## macOS Security Books:
 
 - [The Art of Mac Malware](https://taomm.org/)
 - [OS X Incident Response Scripting and Analysis](https://themittenmac.com/book/)
+- [Apple Device Management](https://www.amazon.com/Apple-Device-Management-Unified-Managing/dp/1484291557/ref=sr_1_1?keywords=apple+device+management&qid=1681740029&sprefix=apple+device+man,aps,85&sr=8-1&ufe=app_do:amzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
 
 
 ---
