@@ -83,7 +83,11 @@ Community:
 
 - [macadmins Slack](https://www.macadmins.org/) (#security channel)
 
-Podcast:
+Podcasts:
 
-- [Security Now](https://twit.tv/shows/security-now) (not a specific macOS podcast but great for overall security news and trends)
+Not specific macOS security podcasst but great for overall  macOS news or security news and trends
+
+- [macAdmins Podcast](https://podcast.macadmins.org/)
+- [Security Now](https://twit.tv/shows/security-now) 
+- [Blueprint Podcast](https://www.sans.org/podcasts/blueprint/)
 
