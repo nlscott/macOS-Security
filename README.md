@@ -70,6 +70,7 @@
 - [MDOYVR20 - Thomas Reed - Mac security features… and how malware evades them!](https://www.youtube.com/watch?v=lNtW4xl8GNo&list=PLOpBG-mD9ZjF4xClRBpPBnLCXPgb2ySBJ&index=12)
 - [How to Exfiltrate Data from a Mac](https://docs.macsysadmin.se/2022/video/day2session5.mp4)
 - [Unearth the Secrets of Secure Token, Bootstrap Token, and Volume Ownership](https://docs.macsysadmin.se/2022/video/day4session1.mp4)
+- [Security for Mac Admins](https://www.youtube.com/watch?v=F-Isg1WC8MU&list=PLRUboZUQxbyWzc2LtGvCHpWz1dcoSSR5s&index=31) (macAdmins at PSU 2023)
 
 
 ---
