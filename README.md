@@ -28,6 +28,7 @@
 - [macOS Incident Response | Part 1: Collecting Device, File & System Data](https://www.sentinelone.com/labs/macos-incident-response-part-1-collecting-device-file-system-data/)
 - [macOS Incident Response | Part 2: User Data, Activity, and Behavior](https://www.sentinelone.com/labs/macos-incident-response-part-2-user-data-activity-and-behavior/)
 - [macOS Incident Response | Part 3: System Manipulation](https://www.sentinelone.com/labs/macos-incident-response-part-3-system-manipulation/)
+- [Malware Hunting on macOS | A Practical Guide](https://www.sentinelone.com/blog/malware-hunting-macos-practical-guide/)
 - [NIST SP 800-219 Automated Secure Configuration](https://csrc.nist.gov/publications/detail/sp/800-219/final)
 - [The Complete Guide to Understanding Apple Mac Security for Enterprise](https://www.sentinelone.com/blog/the-complete-guide-to-understanding-apple-mac-security-for-enterprise-read-the-free-ebook/)
 - [macOS vs Windows security: a detailed analysis](https://www.hexnode.com/blogs/macos-vs-windows-security-a-detailed-analysis/)
