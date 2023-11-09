@@ -61,7 +61,8 @@
 ---
 ## macOS Security Videos:
 
-- [Objective by the Sea YouTube Channel](https://www.youtube.com/@objectivebythesea4762/playlists)
+- [Objective by the Sea YouTube Channel ](https://www.youtube.com/@objectivebythesea4762/playlists)
+  - [Objective by the Sea, v6.0](https://www.youtube.com/playlist?list=PLliknDIoYszseXmn3z7XVwPzWO504Wup8)
 - [A Closer Look at MacOS Built-In Security Tools | JNUC 2022](https://www.youtube.com/watch?v=awNRmUapzqg&list=PLlxHm_Px-Ie2uIFiar6_3JejiOnObiujM&index=73)
 - [MacOS Application Security Intelligence and Vulnerability Detection | JNUC 2022](https://www.youtube.com/watch?v=7FvN9qdYjVo&list=PLlxHm_Px-Ie2uIFiar6_3JejiOnObiujM&index=41)
 - [Using the NIST macOS Security Toolchain to Implement Security Benchmarks | JNUC 2022](https://www.youtube.com/watch?v=0F2JhCJ_RaI&list=PLlxHm_Px-Ie2uIFiar6_3JejiOnObiujM&index=79)
@@ -72,6 +73,7 @@
 - [How to Exfiltrate Data from a Mac](https://docs.macsysadmin.se/2022/video/day2session5.mp4)
 - [Unearth the Secrets of Secure Token, Bootstrap Token, and Volume Ownership](https://docs.macsysadmin.se/2022/video/day4session1.mp4)
 - [Security for Mac Admins](https://www.youtube.com/watch?v=F-Isg1WC8MU&list=PLRUboZUQxbyWzc2LtGvCHpWz1dcoSSR5s&index=31) (macAdmins at PSU 2023)
+- [Overview on how to use SpriteTree](https://www.youtube.com/watch?v=Uov3KKO959E&list=PLliknDIoYszseXmn3z7XVwPzWO504Wup8&index=3) (starts about the 8:35 marker)
 
 
 ---
