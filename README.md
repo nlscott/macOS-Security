@@ -33,6 +33,8 @@
 - [NIST SP 800-219 Automated Secure Configuration](https://csrc.nist.gov/publications/detail/sp/800-219/final)
 - [The Complete Guide to Understanding Apple Mac Security for Enterprise](https://www.sentinelone.com/blog/the-complete-guide-to-understanding-apple-mac-security-for-enterprise-read-the-free-ebook/)
 - [macOS vs Windows security: a detailed analysis](https://www.hexnode.com/blogs/macos-vs-windows-security-a-detailed-analysis/)
+- [IT Teams are also Security Teams](https://t-lark.github.io/posts/cpe-is-a-security-team/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_305)
+
 
 
 ---
