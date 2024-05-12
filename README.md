@@ -13,6 +13,8 @@
 - [Wojciech Reguła](https://wojciechregula.blog/post/)
 - [Beyond the good ol' LaunchAgents](https://theevilbit.github.io/beyond/)
 - [MacAdmin.news](https://macadmins.news/)
+- [macsecurity.net/news](https://macsecurity.net/news)
+- [The Hacker News macOS Feed](https://thehackernews.com/search/label/MacOS)
 
 ---
 ## macOS Security Articles:
@@ -34,6 +36,8 @@
 - [The Complete Guide to Understanding Apple Mac Security for Enterprise](https://www.sentinelone.com/blog/the-complete-guide-to-understanding-apple-mac-security-for-enterprise-read-the-free-ebook/)
 - [macOS vs Windows security: a detailed analysis](https://www.hexnode.com/blogs/macos-vs-windows-security-a-detailed-analysis/)
 - [IT Teams are also Security Teams](https://t-lark.github.io/posts/cpe-is-a-security-team/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_305)
+- [Best Practices for MacOS Logging & Monitoring](https://www.iansresearch.com/resources/all-blogs/post/security-blog/2021/04/29/best-practices-for-macos-logging-monitoring)
+- [Cyber Security Checklist for Macs](https://paretosecurity.com/blog/mac-cyber-security-checklist)
 
 
 
@@ -52,6 +56,8 @@
 - [Stronghold](https://github.com/alichtman/stronghold)
 - [LowProfile](https://github.com/ninxsoft/LowProfile)
 - [gnes](https://github.com/erikng/gnes)
+- [BinaryNinja](https://binary.ninja/free/)
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 ---
 ## macOS Security Books:
