@@ -19,6 +19,7 @@
 ---
 ## macOS Security Articles:
 
+- [Apple Platform Security](https://support.apple.com/guide/security/welcome/web)
 - [Apple security releases](https://support.apple.com/en-us/HT201222)
 - [Mitre MacOS Matrix](https://attack.mitre.org/versions/v13/matrices/enterprise/macos/)
 - [Apple macOS CIS Benchmarks](https://www.cisecurity.org/benchmark/apple_os)
@@ -38,6 +39,7 @@
 - [IT Teams are also Security Teams](https://t-lark.github.io/posts/cpe-is-a-security-team/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_305)
 - [Best Practices for MacOS Logging & Monitoring](https://www.iansresearch.com/resources/all-blogs/post/security-blog/2021/04/29/best-practices-for-macos-logging-monitoring)
 - [Cyber Security Checklist for Macs](https://paretosecurity.com/blog/mac-cyber-security-checklist)
+- [Enabling Touch ID for sudo in macOS Sonoma](https://jc0b.computer/posts/enabling-touchid-for-sudo-macos-sonoma/)
 
 
 
