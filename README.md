@@ -60,6 +60,7 @@
 - [gnes](https://github.com/erikng/gnes)
 - [BinaryNinja](https://binary.ninja/free/)
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [Workbrew](https://workbrew.com/)
 
 ---
 ## macOS Security Books:
@@ -85,6 +86,8 @@
 - [Unearth the Secrets of Secure Token, Bootstrap Token, and Volume Ownership](https://docs.macsysadmin.se/2022/video/day4session1.mp4)
 - [Security for Mac Admins](https://www.youtube.com/watch?v=F-Isg1WC8MU&list=PLRUboZUQxbyWzc2LtGvCHpWz1dcoSSR5s&index=31) (macAdmins at PSU 2023)
 - [Overview on how to use SpriteTree](https://www.youtube.com/watch?v=Uov3KKO959E&list=PLliknDIoYszseXmn3z7XVwPzWO504Wup8&index=3) (starts about the 8:35 marker)
+- [Workbrew: A Deep Dive into the Enterprise Software Delivery Platform](https://www.youtube.com/watch?v=TQ5nmvwwoYc&list=PLRUboZUQxbyWG1po0okbooS8tIvciHC3r&index=5) (macAdmins at PSU 2024)
+- [Cybersecurity is more than having the right tools](https://www.youtube.com/watch?v=Lo2gyR1cRS0&list=PLRUboZUQxbyWG1po0okbooS8tIvciHC3r&index=29) (macAdmins at PSU 2024)
 
 
 ---
