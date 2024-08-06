@@ -40,6 +40,7 @@
 - [Best Practices for MacOS Logging & Monitoring](https://www.iansresearch.com/resources/all-blogs/post/security-blog/2021/04/29/best-practices-for-macos-logging-monitoring)
 - [Cyber Security Checklist for Macs](https://paretosecurity.com/blog/mac-cyber-security-checklist)
 - [Enabling Touch ID for sudo in macOS Sonoma](https://jc0b.computer/posts/enabling-touchid-for-sudo-macos-sonoma/)
+- [macOS Sequoia Makes It Harder to Override Gatekeeper Security](https://www.macrumors.com/2024/08/06/macos-sequoia-gatekeeper-security-change/)
 
 
 
