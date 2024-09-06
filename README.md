@@ -43,6 +43,7 @@
 - [Enabling Touch ID for sudo in macOS Sonoma](https://jc0b.computer/posts/enabling-touchid-for-sudo-macos-sonoma/)
 - [macOS Sequoia Makes It Harder to Override Gatekeeper Security](https://www.macrumors.com/2024/08/06/macos-sequoia-gatekeeper-security-change/)
 - [How multiple vulnerabilities in Microsoft apps for macOS pave the way to stealing permissions](https://blog.talosintelligence.com/how-multiple-vulnerabilities-in-microsoft-apps-for-macos-pave-the-way-to-stealing-permissions/)
+- [Bypassing the gate: A closer look into Gatekeeper flaws on macOS](https://www.jamf.com/blog/gatekeeper-flaws-on-macos/)
 
 ---
 ## macOS Security Tools:
