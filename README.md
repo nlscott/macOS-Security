@@ -44,6 +44,7 @@
 - [macOS Sequoia Makes It Harder to Override Gatekeeper Security](https://www.macrumors.com/2024/08/06/macos-sequoia-gatekeeper-security-change/)
 - [How multiple vulnerabilities in Microsoft apps for macOS pave the way to stealing permissions](https://blog.talosintelligence.com/how-multiple-vulnerabilities-in-microsoft-apps-for-macos-pave-the-way-to-stealing-permissions/)
 - [Bypassing the gate: A closer look into Gatekeeper flaws on macOS](https://www.jamf.com/blog/gatekeeper-flaws-on-macos/)
+- [Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
 
 ---
 ## macOS Security Tools:
