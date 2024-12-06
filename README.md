@@ -45,6 +45,7 @@
 - [How multiple vulnerabilities in Microsoft apps for macOS pave the way to stealing permissions](https://blog.talosintelligence.com/how-multiple-vulnerabilities-in-microsoft-apps-for-macos-pave-the-way-to-stealing-permissions/)
 - [Bypassing the gate: A closer look into Gatekeeper flaws on macOS](https://www.jamf.com/blog/gatekeeper-flaws-on-macos/)
 - [Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
+- [MacOS Malware Surges as Corporate Usage Grows](https://www.trellix.com/blogs/research/macos-malware-surges-as-corporate-usage-grows/)
 
 ---
 ## macOS Security Tools:
