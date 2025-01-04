@@ -16,6 +16,7 @@
 - [macsecurity.net/news](https://macsecurity.net/news)
 - [The Hacker News macOS Feed](https://thehackernews.com/search/label/MacOS)
 - [Crash Security](https://notes.crashsecurity.io/notes)
+- [Stuart Ashenbrenner](https://github.com/stuartjash)
 
 ---
 ## macOS Security Articles:
