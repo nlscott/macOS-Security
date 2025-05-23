@@ -47,6 +47,7 @@
 - [Bypassing the gate: A closer look into Gatekeeper flaws on macOS](https://www.jamf.com/blog/gatekeeper-flaws-on-macos/)
 - [Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
 - [MacOS Malware Surges as Corporate Usage Grows](https://www.trellix.com/blogs/research/macos-malware-surges-as-corporate-usage-grows/)
+- [Researching vulnerabilities with Csaba Fitzl](https://mdopod.com/researching-vulnerabilities-with-csaba-fitzl/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_362)
 
 ---
 ## macOS Security Tools:
@@ -66,6 +67,7 @@
 - [BinaryNinja](https://binary.ninja/free/)
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 - [Workbrew](https://workbrew.com/)
+- [Jamf API Utility](https://github.com/Jamf-Concepts/apiutil/wiki?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_362)
 
 ---
 ## macOS Security Books:
@@ -85,6 +87,7 @@
 - [Using the NIST macOS Security Toolchain to Implement Security Benchmarks | JNUC 2022](https://www.youtube.com/watch?v=0F2JhCJ_RaI&list=PLlxHm_Px-Ie2uIFiar6_3JejiOnObiujM&index=79)
 - [MacAdUK 2022 Robin Lauren - Security for Humans](https://www.youtube.com/watch?v=N6xy91hyPJo&list=PLe6gxSMzV0S9u5L8hK7LyQGJ3RZSnJqYr&index=6)
 - [MacAdUK 2022 David Acland - Implementing a security policy for your Macs](https://www.youtube.com/watch?v=wMoEmbadZAk&list=PLe6gxSMzV0S9u5L8hK7LyQGJ3RZSnJqYr&index=9)
+- [MDOYVR22 - Csaba Fitzl -10 macOS Persistence Techniques](https://www.youtube.com/watch?v=qySBuk7Ww7Q)
 - [MDOYVR21 - Csaba Fitzl - Mitigating exploits using Apple's Endpoint Security](https://www.youtube.com/watch?v=V9eOMYlG-O4&list=PLOpBG-mD9ZjGUqexCPJaMr2NAl4MV-nn6&index=17)
 - [MDOYVR20 - Thomas Reed - Mac security features… and how malware evades them!](https://www.youtube.com/watch?v=lNtW4xl8GNo&list=PLOpBG-mD9ZjF4xClRBpPBnLCXPgb2ySBJ&index=12)
 - [How to Exfiltrate Data from a Mac](https://docs.macsysadmin.se/2022/video/day2session5.mp4)
