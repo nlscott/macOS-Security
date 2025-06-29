@@ -48,6 +48,7 @@
 - [Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
 - [MacOS Malware Surges as Corporate Usage Grows](https://www.trellix.com/blogs/research/macos-malware-surges-as-corporate-usage-grows/)
 - [Researching vulnerabilities with Csaba Fitzl](https://mdopod.com/researching-vulnerabilities-with-csaba-fitzl/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_362)
+- [AirDrop Forensics](https://kieczkowska.wordpress.com/2020/06/15/airdrop-forensics/)
 
 ---
 ## macOS Security Tools:
