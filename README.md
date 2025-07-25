@@ -49,6 +49,7 @@
 - [MacOS Malware Surges as Corporate Usage Grows](https://www.trellix.com/blogs/research/macos-malware-surges-as-corporate-usage-grows/)
 - [Researching vulnerabilities with Csaba Fitzl](https://mdopod.com/researching-vulnerabilities-with-csaba-fitzl/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_362)
 - [AirDrop Forensics](https://kieczkowska.wordpress.com/2020/06/15/airdrop-forensics/)
+- [How Malware Persists on macOS](https://www.sentinelone.com/blog/how-malware-persists-on-macos/)
 
 ---
 ## macOS Security Tools:
@@ -69,6 +70,8 @@
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra)
 - [Workbrew](https://workbrew.com/)
 - [Jamf API Utility](https://github.com/Jamf-Concepts/apiutil/wiki?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_362)
+- [PoisonApple](https://github.com/CyborgSecurity/PoisonApple)
+
 
 ---
 ## macOS Security Books:
