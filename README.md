@@ -22,34 +22,65 @@
 ## macOS Security Articles:
 
 - [Apple Platform Security](https://support.apple.com/guide/security/welcome/web)
+
 - [Apple security releases](https://support.apple.com/en-us/HT201222)
+
 - [Mitre MacOS Matrix](https://attack.mitre.org/versions/v13/matrices/enterprise/macos/)
+
 - [Apple macOS CIS Benchmarks](https://www.cisecurity.org/benchmark/apple_os)
+
 - [Built-in macOS Security Tools](https://www.huntress.com/blog/built-in-macos-security-tools)
+
 - [Mac Logging and the log Command: A Guide for Apple Admins](https://blog.kandji.io/mac-logging-and-the-log-command-a-guide-for-apple-admins)
+
 - [ESFang - Exploring the macOS Endpoint Security Framework (ESF) for Threat Detection](https://labs.withsecure.com/publications/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection)
+
 - [MacOS Endpoint Security Framework (ESF)](https://www.withsecure.com/en/expertise/resources/macos-endpoint-security-framework)
+
 - [Endpoint Security In a macOS World](https://www.huntress.com/blog/endpoint-security-in-a-macos-world)
+
 - [Apple Docs: Endpoint Security Framework](https://developer.apple.com/documentation/endpointsecurity)
+
 - [macOS Incident Response | Part 1: Collecting Device, File & System Data](https://www.sentinelone.com/labs/macos-incident-response-part-1-collecting-device-file-system-data/)
+
 - [macOS Incident Response | Part 2: User Data, Activity, and Behavior](https://www.sentinelone.com/labs/macos-incident-response-part-2-user-data-activity-and-behavior/)
+
 - [macOS Incident Response | Part 3: System Manipulation](https://www.sentinelone.com/labs/macos-incident-response-part-3-system-manipulation/)
+
 - [Malware Hunting on macOS | A Practical Guide](https://www.sentinelone.com/blog/malware-hunting-macos-practical-guide/)
+
 - [NIST SP 800-219 Automated Secure Configuration](https://csrc.nist.gov/publications/detail/sp/800-219/final)
+
 - [The Complete Guide to Understanding Apple Mac Security for Enterprise](https://www.sentinelone.com/blog/the-complete-guide-to-understanding-apple-mac-security-for-enterprise-read-the-free-ebook/)
+
 - [macOS vs Windows security: a detailed analysis](https://www.hexnode.com/blogs/macos-vs-windows-security-a-detailed-analysis/)
+
 - [IT Teams are also Security Teams](https://t-lark.github.io/posts/cpe-is-a-security-team/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_305)
+
 - [Best Practices for MacOS Logging & Monitoring](https://www.iansresearch.com/resources/all-blogs/post/security-blog/2021/04/29/best-practices-for-macos-logging-monitoring)
+
 - [Cyber Security Checklist for Macs](https://paretosecurity.com/blog/mac-cyber-security-checklist)
+
 - [Enabling Touch ID for sudo in macOS Sonoma](https://jc0b.computer/posts/enabling-touchid-for-sudo-macos-sonoma/)
+
 - [macOS Sequoia Makes It Harder to Override Gatekeeper Security](https://www.macrumors.com/2024/08/06/macos-sequoia-gatekeeper-security-change/)
+
 - [How multiple vulnerabilities in Microsoft apps for macOS pave the way to stealing permissions](https://blog.talosintelligence.com/how-multiple-vulnerabilities-in-microsoft-apps-for-macos-pave-the-way-to-stealing-permissions/)
+
 - [Bypassing the gate: A closer look into Gatekeeper flaws on macOS](https://www.jamf.com/blog/gatekeeper-flaws-on-macos/)
+
 - [Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
+
 - [MacOS Malware Surges as Corporate Usage Grows](https://www.trellix.com/blogs/research/macos-malware-surges-as-corporate-usage-grows/)
+
 - [Researching vulnerabilities with Csaba Fitzl](https://mdopod.com/researching-vulnerabilities-with-csaba-fitzl/?utm_campaign=MacAdmins.news&utm_medium=web&utm_source=MacAdmins.news_362)
+
 - [AirDrop Forensics](https://kieczkowska.wordpress.com/2020/06/15/airdrop-forensics/)
+
 - [How Malware Persists on macOS](https://www.sentinelone.com/blog/how-malware-persists-on-macos/)
+
+- [Making Sense of macOS Logs(Part1): A User-Friendly Guide](https://medium.com/@cyberengage.org/making-sense-of-macos-logs-part1-a-user-friendly-guide-8f367b388184)
+
 
 ---
 ## macOS Security Tools:
